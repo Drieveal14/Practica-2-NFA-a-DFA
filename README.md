@@ -2,7 +2,7 @@
   <img width="200" src="https://www.fciencias.unam.mx/sites/default/files/logoFC_2.png" alt="Logo FC">
 </div>
 
-# Practica 2: AFN a AFD — estructuras de datos
+# Practica 2: AFN a AFD
 
 ## Compiladores 2027-1
 En este repositorio se implementa el algoritmo de **construcción de subconjuntos** para transformar un Autómata Finito No Determinista (**NFA**) en un Autómata Finito Determinista (**DFA**) equivalente.
