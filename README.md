@@ -17,7 +17,7 @@ La implementación utiliza las operaciones fundamentales:
 
 | Nombre Completo                 | Número de cuenta |
 |---------------------------------| ---------------- |
-| Chávez Martínez Marco Antonio   | ---------        |
+| Chávez Martínez Marco Antonio   | 320328594        |
 | Lugo Díaz Ordaz Gretel Alexandra| ---------        |
 | Hernández Islas Leonardo Daniel | ---------        |
 | Vega Alonso Diego Hazael        | 321301183        |
